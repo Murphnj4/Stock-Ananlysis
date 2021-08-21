@@ -3,6 +3,7 @@
 #
 Overview  
    We have previously ran this subroutine and it was successful. We are now refactoring the code to see if we can have it run faster and more efficiently.
+   
  Results
    The original version of the code ran in just over .27 seconds. The refactored version ran in just over .07 seconds. The refactored code was substantially
    faster, running approximately 75% faster. We were only analyising 12 stocks in our example. If the the analysis was expanded to include all US stocks that
