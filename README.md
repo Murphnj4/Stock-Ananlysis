@@ -14,3 +14,6 @@ Summary
    and time savings like this across an organization add up and are meaningful.
    The disadvantanges of refactoring are that it does not always result in meaningful improvemnts in performance. Sometimes it is not possible to have code run
    any more efficiently.
+ 
+   The advantages of our original code was that it had fewer lines of code but ran slower than the refactored version. The refactored code ran much faster than 
+   the original due to efficient use of For loops and using arrays to store the results without going back and forth among the different worksheets.
